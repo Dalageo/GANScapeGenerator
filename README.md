@@ -26,7 +26,7 @@ More specifically, the model used is the *[StyleGAN3-t LHQ 256](https://huggingf
  <img src="https://github.com/user-attachments/assets/07b0cf89-2289-4c57-9d1b-7061122326ff" alt="LHQExample">
 </div>
 
-*Further fine-tuning* of this model was carried out using the [Landscape Pictures](https://www.kaggle.com/datasets/arnaud58/landscape-pictures/data) dataset, with the same seeds used to generate new landscape images after this additional training, which are displayed below. By comparing the two stacks of images, it is evident that the new dataset likely introduced greater colors and lighting variations, increased detail, and possibly more geographical diversity, since the landscapes in the second stack feature richer and more complex environments, ranging from detailed mountain terrains to lush, vibrant valleys.
+*Further fine-tuning* of this model was carried out for 50 epochs using the [Landscape Pictures](https://www.kaggle.com/datasets/arnaud58/landscape-pictures/data) dataset, with the same seeds used to generate new landscape images after this additional training, which are displayed below. By comparing the two stacks of images, it is evident that the new dataset likely introduced greater colors and lighting variations, increased detail, and possibly more geographical diversity, since the landscapes in the second stack feature richer and more complex environments, ranging from detailed mountain terrains to lush, vibrant valleys.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cb9a4333-92f7-4e5a-8ab8-79cea98acc4d" alt="FineTunedExample">
