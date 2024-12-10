@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/stars/Dalageo/GANScapeGenerator?style=social" alt="GitHub stars">
 </div>
 
-# Generating Landscapes Using DCGAN and StyleGAN3
+# Generating Landscapes Using DCGAN and StyleGAN3 🏞️
 
 This project examines image generative models, focusing on DCGAN and StyleGAN3. Initially, the project started by training a DCGAN to generate landscape images, but it was found that to create a decent DCGAN, you need a significantly larger and more diverse dataset, a carefully designed architecture, advanced techniques to stabilize training between the generator and discriminator, and sufficient computational resources to train effectively. As a result, the project did not delve deeply into developing the most powerful DCGAN architecture. Instead, it explored the use of a pretrained variant of [StyleGAN3](https://github.com/NVlabs/stylegan3), originally provided by [NVIDIA](https://www.nvidia.com/en-eu/) and further fine-tuned on landscape images by [Justin Pinkney](https://www.justinpinkney.com/).
 
