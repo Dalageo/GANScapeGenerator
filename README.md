@@ -70,7 +70,7 @@ The [Landscape Pictures](https://www.kaggle.com/datasets/arnaud58/landscape-pict
    cd GANScapeGenerator
 
 ### For DCGAN:
-3. **Open the `GANScapeGenerator_DCGAN.ipynb` using your preferred Jupyter-compatible environment. (e.g., [Jupyter Notebook](https://jupyter.org/), [VS Code](https://code.visualstudio.com/), or [PyCharm](https://www.jetbrains.com/pycharm/))**
+3. **Open the `GANScapeGenerator_DCGAN.ipynb` using your preferred Jupyter-compatible environment (e.g., [Jupyter Notebook](https://jupyter.org/), [VS Code](https://code.visualstudio.com/), or [PyCharm](https://www.jetbrains.com/pycharm/))**
    
 4. **Update the dataset, model and output directory paths to point to the location of your local environment.**
    
